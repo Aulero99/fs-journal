@@ -6,7 +6,7 @@
     > | It is used to make a directory using a command line |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | A Psudo-Class is class derived from another class, usually resulting from the actions of the user. For example :hover applies new rules to the class in question (ie .button:hover) when the user hovers over an that element. I think that :hover is also going to be the  |
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > | ANSWER HERE |
