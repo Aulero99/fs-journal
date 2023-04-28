@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/Aulero99/coolsite)**
-* **[Repo](https://github.com/Aulero99/clonesite)**
-* **[Repo](https://github.com/Aulero99/about_me)**
-* **[Repo](https://github.com/BlazeInGlory/teamsite)**
+* **[Coolsite](https://github.com/Aulero99/coolsite)**
+* **[Clonesite](https://github.com/Aulero99/clonesite)**
+* **[About Me](https://github.com/Aulero99/about_me)**
+* **[Partner Site](https://github.com/BlazeInGlory/teamsite)**
