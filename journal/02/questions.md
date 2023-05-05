@@ -24,7 +24,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | there are a few ways to remove pineapple. the first would be to replace it with an empty index fruit[2] = ''  which would delete pinapple but leave the index in the array open. The next would be run a function that moves pineapple to the end then pops it ```(fruits[2] = fruits[4] fruits.pop() )``` and this would delete the pineapple from the array, but it would change the location of strawberry to where pinapple was. |
+    > | there are a few ways to remove pineapple. the first would be to replace it with an empty index fruit[2] = ''  which would delete pinapple but leave the index in the array open. The next would be run a function that moves pineapple to the end then pops it ```(fruits[2] = fruits[4] fruits.pop() )``` and this would delete the pineapple from the array, but it would change the location of strawberry to where pinapple was. finally you can run something like a foreach() on them looking for !pineapple, which would return a string in the same order without pineapple, then just define that to be the new string |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
