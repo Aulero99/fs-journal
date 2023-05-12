@@ -5,7 +5,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > | Export is good when importing multiple values, while export default is good when importing a single value, the only real difference I could find is that the export default gives a fallback to your export of 'default' which could be important to dependencies |
+  > | Export is good when importing multiple values, while export default is good when importing a single value, the only real difference I could find is that the export default gives a fallback to your export of 'default' which could be important to dependencies. |
 
 03. What is Encapsulation?
   
