@@ -9,7 +9,7 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | A Component-Based Architecture in the realm of coding is a framework that focuses on re-usable objects that can be repeatedly used all throughout a project. Basically it is an architecture that tries to build self contained lego pieces of code that can be dragged and dropped into more complicated systems without the need of remaking the system |
+  > | A Component-Based Architecture in the realm of coding is a framework that focuses on re-usable objects that can be repeatedly used all throughout a project. Basically it is an architecture that tries to build self contained lego pieces of code that can be dragged and dropped into more complicated systems without the need of remaking the system. |
 
 04. What are the three tags that make up a Vue component?
 
