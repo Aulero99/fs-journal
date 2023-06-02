@@ -5,11 +5,11 @@
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | A component is an asset you can reuse on multiple pages, like a lego piece, while a page is something the user can veiw and interact with that is a combination of tis own singular logic and multiple components, kinda like the finished lego set, or the instruction manual depending on how you think of it |
+  > | A component is an asset you can reuse on multiple pages, like a lego piece, while a page is something the user can view and interact with that is a combination of tis own singular logic and multiple components, kinda like the finished lego set, or the instruction manual depending on how you think of it |
 
 03. What is ***Component-Based Architecture***?
 
-  > | A Component-Based Architxture in the realm of coding is a framework that focuses on re-usable objects that can be repeatedly used all throughout a project. Basically it is an architexture that tries to build self contained lego pieces of code that can be dragged and dropped into more complicated systems without the need of remaking the system |
+  > | A Component-Based Architecture in the realm of coding is a framework that focuses on re-usable objects that can be repeatedly used all throughout a project. Basically it is an architecture that tries to build self contained lego pieces of code that can be dragged and dropped into more complicated systems without the need of remaking the system |
 
 04. What are the three tags that make up a Vue component?
 
