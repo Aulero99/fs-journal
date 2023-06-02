@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/Aulero99/lateSpring23_burgerShack)**
-* **[Repo](https://github.com/Aulero99/lateSpring23_gregslistNode)**
-* **[Repo](https://github.com/Aulero99/daPlanets)**
+* **[Burger Shack](https://github.com/Aulero99/lateSpring23_burgerShack)**
+* **[Gregslist Node](https://github.com/Aulero99/lateSpring23_gregslistNode)**
+* **[DaPlanets](https://github.com/Aulero99/daPlanets)**
