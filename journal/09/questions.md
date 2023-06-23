@@ -1,7 +1,7 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> | ANSWER HERE |
+> | inheritance is one object in your code taking on the aspects of a parent element. IE, height inherit will take the height value of the parent element and apply it to the child element.  |
 
 02. What is the `Singleton` design pattern?
 
