@@ -22,7 +22,7 @@
 
 6. What is the package.json file used for?
 
-  > | the package.json is used to track other repositories of code across many different repositories and enable thier use locally, basically it allows us to use other people's code for our own projects. |
+  > | the package.json is used to track other repositories of code across many different repositories and enable their use locally, basically it allows us to use other people's code for our own projects. |
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
